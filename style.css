@@ -1,0 +1,15 @@
+#mycarousel {
+    background-color: red;
+}
+.img-responsive {
+    margin-top: 60px;
+    height : 300px;
+}
+.carousel-inner p {
+    font-size : 20px;
+    font-weight: bold;
+    color : white;
+    padding-top : 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
